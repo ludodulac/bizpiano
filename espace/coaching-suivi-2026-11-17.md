@@ -147,3 +147,29 @@ Je voudrais vérifier si, dans ton esprit, la difficulté se situe principalemen
 ### Piste suivante
 
 Explorer la possibilité d'une offre créative clairement délimitée avec acquisition déléguée ou apporteurs d'affaires, sans présumer qu'un partenaire commercial est déjà disponible. Clarifier d'abord quelle prestation artistique concrète l'utilisateur aimerait vendre.
+
+## Échange 7 — dissociation entre création et recherche d'argent
+
+### Assistant — question exacte
+
+Imaginons qu'un agent commercial compétent puisse trouver des clients pour toi, contre une commission sur les ventes.
+
+**Qu'est-ce que tu aurais le plus envie qu'il vende à ta place : tes cours de piano, des prestations musicales, tes créations artistiques, des services numériques comme Mailotion, ou autre chose ?**
+
+Je ne te demande pas ce qui serait le plus rentable, mais **ce que tu aurais réellement envie de faire une fois le client trouvé**.
+
+### Utilisateur — réponse exacte
+
+> À moi j'ai envie de rien faire à part les créations et le travail pour la tradition essénienne, faire des concerts et enregistrer avec mes amis avoir les moyens de faire ses concerts et d'enregistrer avec mes amis de faire des spectacles ou après si j'ai besoin de faire ça  ça n'a rien à voir avec l'argent je m'en fiche. D'un autre côté je veux beaucoup d'argent pour pouvoir faire de l'investissement immobilier ne pas réfléchir à l'argent acheter du coaching des soins de la bonne nourriture c'est complètement decorellé. Si je pouvais simplement avoir de l'argent et l'investir pour en avoir plus ça m'irait très bien j'ai pas besoin de fournir quelque chose au travail pour avoir de l'argent ce n'est pas besoin que j'ai j'ai juste besoin de l'argent après pour les créations c'est quoi le nom indépendant de l'argent je m'en fous moi les créations je veux les offrir au monde
+
+### Synthèse — distinction fondamentale
+
+- Il veut créer, travailler pour la tradition essénienne, donner des concerts, enregistrer et monter des spectacles avec ses amis, sans faire dépendre ces activités de leur rentabilité.
+- Il souhaite disposer de ressources financières importantes pour vivre sans inquiétude financière, investir notamment dans l'immobilier et financer coaching, soins, bonne alimentation et projets artistiques.
+- **Il ne souhaite pas nécessairement monétiser sa création** : il aimerait offrir ses œuvres au monde.
+- La recherche d'argent et la vocation créative sont, pour lui, **deux sujets distincts**. Ne plus présupposer que l'objectif est de trouver une prestation artistique à vendre, ni que la création doit être son activité rémunératrice.
+- Souhaiter des revenus d'investissement n'implique pas qu'il dispose déjà du capital initial ; distinguer objectif de long terme et chemin réaliste pour l'atteindre.
+
+### Piste suivante
+
+Respecter cette séparation et explorer, sans jugement, quel mode d'obtention de revenus ou de capital lui semblerait acceptable **sans accaparer son temps de création**. Ne pas proposer immédiatement une nouvelle liste d'activités ou un plan marketing.
