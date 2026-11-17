@@ -199,3 +199,28 @@ Je te pose cette question parce que ta réponse pourrait nous permettre de disti
 ### Prochaine exploration
 
 Revenir au problème de départ : quand le capital est faible, il pense devoir acquérir des compétences entrepreneuriales pour le faire croître. Explorer ce qu'il croit devoir savoir faire avant d'obtenir ses premiers revenus réguliers, sans suggérer qu'il faut tout apprendre à la fois.
+
+## Échange 9 — difficulté d'application, énergie et absence de repères entrepreneuriaux
+
+### Assistant — question exacte
+
+**Quand tu imagines devoir apprendre à gagner de l'argent en partant de presque rien, as-tu le sentiment qu'il existe une méthode relativement simple que tu n'as pas encore découverte, ou que réussir financièrement exige forcément de maîtriser énormément de compétences différentes ?**
+
+Je voudrais comprendre si, dans ton esprit, la création de revenus est quelque chose de fondamentalement compliqué ou simplement quelque chose dont tu n'as pas encore trouvé le bon fonctionnement.
+
+### Utilisateur — réponse exacte
+
+> J'ai l'impression que mon handicap fait que il y a beaucoup de fuite dans la concentration et que j'ai des difficultés à la frustration pour avancer sur un seul objectif et des fois aussi un manque d'énergie. C'est pourquoi à la rentrée j'ai commencé à refaire du sport j'ai vu que j'ai beaucoup baissé en énergie j'ai tout de suite demandé un médecin des compléments alimentaires pour rentrer bien dans l'hiver. Et en fait je sais que faire de l'argent j'ai compris en tout cas que faire de l'argent c'était pour les storyteller mais ça reste un monde un peu vague le storytelling ça suffit pas je pense pas que il suffisent d'écrire quelque chose à quelqu'un pour qu'il te donne de l'argent néanmoins je pense qu'il y a des façons de faire mais il faut persévérer dans une certaine façon de faire parce qu'il faut quand même avoir une communauté et cetera je ne sais plus quelle est ta question je me suis un petit peu perdu, j'ai l'impression qu'il y a des gens un peu bête qui arrive à faire de l'argent parce que juste ils appliquent et donc moi je pense que j'ai une difficulté à l'application pourtant j'applique des choses mais je ne sais pas il y a un endroit où je n'applique pas forcément comme il faudrait et j'avais pas à le définir vraiment et autour de moi il y a personne qui est entrepreneur il y a que des gens sur YouTube
+
+### Synthèse prudente
+
+- L'utilisateur rapporte des difficultés de concentration, de tolérance à la frustration et parfois d'énergie, qu'il relie à son handicap. Ne pas poser de diagnostic supplémentaire ni réduire toutes les difficultés commerciales à cette explication.
+- Il a repris le sport à la rentrée et consulté un médecin au sujet de compléments alimentaires pour l'hiver.
+- Il considère le storytelling comme un levier possible, mais trop vague et insuffisant à lui seul pour garantir une vente.
+- Il soupçonne une difficulté **dans l'application concrète** d'une méthode, sans savoir identifier l'étape manquante, malgré les nombreuses actions déjà entreprises.
+- Il pense qu'il faut persévérer et développer une communauté, mais n'a pas de proches entrepreneurs pour confronter ses hypothèses ; ses modèles viennent surtout de YouTube.
+- Il dit s'être perdu dans la question. Réduire la complexité des prochaines questions : une question courte, ancrée dans un cas réel, sans choix abstrait multiple.
+
+### Piste suivante
+
+Plutôt que d'affirmer qu'il manque de discipline ou de storytelling, chercher un exemple précis d'une action commerciale effectivement menée et de l'endroit où son suivi s'est interrompu. Distinguer manque de méthode, défaut de ciblage, interruption et contrainte d'énergie.
