@@ -289,3 +289,35 @@ Raconte-moi simplement comment ça se passait réellement. Nous allons reconstru
 - Un **e-mail direct** ou un **commentaire** sont d'autres portes d'entrée possibles, mais l'utilisateur les présente comme incertaines (« peut être »).
 - Ne pas inventer un tunnel de conversion unique ni affirmer que tous les clients sont passés par Calendly.
 - Prochaine étape : vérifier si les liens Calendly sont déjà visibles et faciles d'accès depuis les vidéos/profils, avant d'ajouter des actions commerciales.
+
+## Échange 13 — audit du business, YouTube, Calendly et accès aux plugins
+
+### Assistant — question exacte
+
+**Aujourd'hui, lorsqu'une personne regarde tes vidéos sur YouTube ou Instagram et souhaite prendre un cours avec toi, est-ce qu'elle trouve facilement ton lien Calendly ?**
+
+C'est peut-être déjà un premier point très simple à vérifier et, si nécessaire, à corriger.
+
+### Utilisateur — réponse exacte
+
+> Oui et non. A perfectionner. Il est dans ma page de vente. Est-ce que tu as accès à mon YouTube est-ce que tu as accès à mon calendly est-ce que tu as accès à ma page de vente oui je pense il faut que tu connaisses tout mon business. Il faut que tu puisses analyser toutes mes vidéos le nombre de vues et cetera. Sur youtube il faut que j'adore les description j'ai arrêté le formaland je voudrais me concentrer peut-être sur le format court. Mais peut-être que de temps en temps il faudrait que je fasse du fort ballon pour tester quand même. Et regarde dans chaque GPT je n'arrive plus à trouver les plugins
+
+### Capture jointe
+
+Capture des paramètres de l'application ChatGPT sur Android : recherche « plugin », message « Aucun paramètre ne correspond à votre recherche ». Cette capture n'établit pas que les connexions ont été supprimées.
+
+### Vérifications directes le 17 novembre 2026
+
+- **vidIQ/YouTube connecté** au compte correspondant à la chaîne « Ludovic Dulac - Piano » (@ludovicdulac-piano461), ID UCqEUazkqNJarevcDoTsbFNQ, **2 350 abonnés, 159 vidéos, 214 855 vues cumulées** au moment du contrôle.
+- **Analyse détaillée des vidéos non réalisée** : vidIQ annonce 0 crédit restant (renouvellement le 3 décembre 2026). Ne pas prétendre disposer des statistiques individuelles.
+- **Calendly connecté** : page principale https://calendly.com/ludovicpiano ; un événement actif public « Reserve ton appel stratégie piano », 30 minutes, https://calendly.com/ludovicpiano/rdv-gratuit.
+- **Page de vente non vérifiée** à ce stade ; lien Calendly présent dans la page selon l'utilisateur, mais accès réel et facilité de navigation à tester.
+- **Instagram non vérifié**.
+- Préférence exprimée pour **les vidéos courtes**, avec quelques vidéos longues à tester ponctuellement. Le texte de dictée « formaland » / « fort ballon » semble désigner le format long, mais ne pas substituer silencieusement une transcription corrigée à la citation originale.
+
+### Priorités pour le prochain audit
+
+1. Vérifier la page de vente et son chemin vers Calendly.
+2. Inventorier les vidéos YouTube (titres, descriptions, formats, vues, appels à l'action) quand les données sont accessibles, sans confondre vues et ventes.
+3. Examiner le compte Instagram réel et le chemin vers l'offre.
+4. Décider ensuite d'un protocole léger « j'applique et on corrige » plutôt que d'ajouter des tâches en parallèle.
