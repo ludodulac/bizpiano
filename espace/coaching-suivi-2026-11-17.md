@@ -31,3 +31,24 @@ Le frein pourrait être moins « je ne sais pas gagner de l'argent » que « pou
 ### Suite
 
 Éviter de rajouter immédiatement des actions. Explorer une seule question sur le type de contrat précis que l'utilisateur sait terminer et qui pourrait être vendu sans continuité quotidienne.
+
+## Échange 2 — seuil de régularité et identité financière
+
+### Assistant — question exacte
+
+Si tu pouvais gagner correctement ta vie en réalisant uniquement des missions courtes, avec un début, une fin et un prix précis, **est-ce que tu ressentirais encore cette impression de ne pas être quelqu'un qui sait gagner de l'argent ?**
+
+### Utilisateur — réponse exacte
+
+> Non je serai content mais pour être quelqu'un qui sait gagner de l'argent il faudrait que j'ai un minimum par mois par exemple si je commençais par gagner 800 € par mois là je me dirai je suis quelqu'un qui sait gagner de l'argent. Bon c'est vrai que si je vendais 450 € par mois je serai déjà quelqu'un qui sait gagner régulièrement de l'argent et ce n'est pas le cas pour l'instant
+
+### Synthèse (non citation)
+
+- Il n'exprime pas de résistance à un modèle de missions courtes ; il serait content.
+- Sa définition de « savoir gagner de l'argent » repose sur **un revenu mensuel régulier**, plutôt que sur une vente ponctuelle.
+- 800 € mensuels serait un seuil significatif ; il reconnaît qu'une régularité de 450 € par mois serait déjà une preuve.
+- Ne pas confondre le seuil symbolique de preuve avec le montant nécessaire pour vivre.
+
+### Piste de travail
+
+Tester la régularité d'une offre simple et finie, avant de viser un système commercial plus complexe. Prochaine question : clarifier si l'important est de recevoir de l'argent *chaque mois* ou d'atteindre une moyenne mensuelle, car les deux supposent des modèles de vente différents.
