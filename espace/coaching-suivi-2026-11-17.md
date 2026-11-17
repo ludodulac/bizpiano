@@ -124,3 +124,26 @@ Imagine que tu réussisses à gagner 450 € par mois pendant six mois, mais que
 - Le plaisir éventuel des proches est un bénéfice supplémentaire, pas une condition nécessaire à la satisfaction de l'utilisateur.
 - La piste « recherche de légitimité avant tout dans le regard des autres » n'est donc pas étayée par cette réponse.
 - Revenir au sujet principal : la possibilité de reproduire un résultat économique avec un système assez simple et compatible avec des missions courtes.
+
+## Échange 6 — difficulté commerciale versus travail créatif
+
+### Assistant — question exacte
+
+**Si quelqu'un prenait entièrement en charge la recherche de clients et te proposait chaque mois deux ou trois missions précises, que tu sais réaliser, est-ce que tu te sentirais capable de gagner régulièrement de l'argent de cette manière ?**
+
+Je voudrais vérifier si, dans ton esprit, la difficulté se situe principalement dans la recherche des clients ou également dans la réalisation du travail rémunéré.
+
+### Utilisateur — réponse exacte
+
+> Où est la difficulté c'est dans la recherche de clients plutôt que dans le travail directement avec eux. Parce que faire des vidéos des pages de vente c'est très bien mais c'est pas forcément mon expertise je commence à savoir comment on manipule tout ça mais je préférerais faire des vidéos pour de l'art.
+
+### Synthèse et distinction
+
+- Le principal obstacle déclaré est **l'acquisition de clients**, non l'exécution de prestations pour eux.
+- Il a acquis des compétences pratiques pour produire vidéos et pages de vente, mais ne considère pas le marketing comme son expertise principale.
+- Il préférerait consacrer son temps à des vidéos **artistiques** plutôt qu'à des contenus commerciaux.
+- Ne pas assimiler ce choix à une peur de vendre : il s'agit aussi d'une préférence de métier et d'une allocation d'énergie.
+
+### Piste suivante
+
+Explorer la possibilité d'une offre créative clairement délimitée avec acquisition déléguée ou apporteurs d'affaires, sans présumer qu'un partenaire commercial est déjà disponible. Clarifier d'abord quelle prestation artistique concrète l'utilisateur aimerait vendre.
