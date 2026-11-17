@@ -224,3 +224,31 @@ Je voudrais comprendre si, dans ton esprit, la création de revenus est quelque 
 ### Piste suivante
 
 Plutôt que d'affirmer qu'il manque de discipline ou de storytelling, chercher un exemple précis d'une action commerciale effectivement menée et de l'endroit où son suivi s'est interrompu. Distinguer manque de méthode, défaut de ciblage, interruption et contrainte d'énergie.
+
+## Échange 10 — origine réelle des ventes et méthode « j'applique, on corrige »
+
+### Assistant — question exacte
+
+**Quand tu as réussi à vendre tes accompagnements piano à 497 €, est-ce que tu savais précisément ce que tu avais fait pour obtenir ces ventes, ou est-ce que tu avais l'impression qu'elles étaient arrivées un peu par hasard ?**
+
+C'est important, parce que si nous retrouvons ce qui a réellement fonctionné, nous pourrons peut-être construire quelque chose de simple à reproduire, plutôt que de repartir de zéro.
+
+### Utilisateur — réponse exacte
+
+> En fait quand j'ai eu des clients c'est parce qu'ils ont vu des vidéos à moi avec des méthodes qui trouvaient ludique et méthodique et claires et pédagogique. Et de ce que j'ai compris de Mathias nezzar  lui il dit qu'il faut des conversations et des conversations et des conversations et des conversations pour faire des conversions alors après la difficulté j'ai l'impression que c'est que il faut bon de l'audience et après de la confiance et de l'autorité j'ai l'impression que j'ai du mal à montrer une certaine autorité pour montrer une certaine confiance mais ça je pense que c'est une confiance en moi aussi et j'ai l'impression que mes vidéos ne sont pas assez professionnel j'ai l'impression que c'est toujours un peu mal filmé mal machin mal bidule et du coup on se dit Oh lui il est bizarre mais c'est normal je suis bizarre je suis TDAH j'ai un TDah. Donc j'ai beaucoup de manque de confiance en moi c'est le propre de ce syndrome des fois je devrais être là et dire je suis un homme maintenant je gagne de l'argent c'est tout je le fais je le fais je le fais et j'applique et j'applique et je corrige maintenant peut-être que ce qu'on pourrait faire c'est essayer de mettre ça en place j'applique et on corrige j'applique et on corrige
+
+### Faits et hypothèses à distinguer
+
+- **Fait rapporté :** des clients ont acheté après avoir vu des vidéos mettant en valeur une pédagogie ludique, méthodique, claire et accessible.
+- **Hypothèses de l'utilisateur :** audience insuffisante, manque de confiance ou d'autorité perçue, vidéos pas assez professionnelles ; ces hypothèses ne sont pas encore vérifiées par des données ou retours clients.
+- Il mentionne une approche attribuée à Mathias Nezzar : multiplier les conversations pour obtenir des conversions. Ne pas traiter cette règle comme universelle ou validée pour sa clientèle.
+- Il exprime des doutes sur sa confiance en lui et relie certains ressentis à son TDAH ; ne pas confirmer des généralisations médicales ni déduire une incapacité commerciale.
+- **Décision proposée par l'utilisateur :** passer de l'analyse à un cycle simple et répétable : « j'applique et on corrige ».
+
+### Protocole proposé (à valider avec l'utilisateur)
+
+- Choisir une seule offre piano existante et un seul canal qui a déjà amené des clients.
+- Pendant deux semaines, publier quelques vidéos pédagogiques simples sans refaire tout le site ni investir dans une production parfaite.
+- Mesurer seulement trois étapes : contacts qualifiés/conversations, rendez-vous pris, ventes. Relever éventuellement les vues comme contexte, sans en faire l'objectif.
+- Faire un point hebdomadaire : conserver ce qui marche, corriger **un seul élément** pour la semaine suivante.
+- Avant de fixer les actions exactes, identifier **quelle plateforme** a réellement amené les clients précédents.
