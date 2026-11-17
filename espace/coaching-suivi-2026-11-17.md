@@ -321,3 +321,27 @@ Capture des paramètres de l'application ChatGPT sur Android : recherche « plug
 2. Inventorier les vidéos YouTube (titres, descriptions, formats, vues, appels à l'action) quand les données sont accessibles, sans confondre vues et ventes.
 3. Examiner le compte Instagram réel et le chemin vers l'offre.
 4. Décider ensuite d'un protocole léger « j'applique et on corrige » plutôt que d'ajouter des tâches en parallèle.
+
+## Échange 14 — URL de la page de vente Pack Piano 3D
+
+### Assistant — question exacte
+
+**Il me manque une seule information pour poursuivre : quelle est l'adresse exacte de ta page de vente piano ?**
+
+### Utilisateur — réponse exacte
+
+> https://www.ludovicdulac.com/pack-piano-3d?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAVpQuxleHRuA2FlbQIxMQBwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp42zOW8QoqjNSbvjJ2uOWHzBIMdooI3JIqKwSOjUDtfuSq_ib2Sbdz6Tc45V_aem_LUmp7oKMjUvvIV54xLQtdw
+
+### Référence propre
+
+https://www.ludovicdulac.com/pack-piano-3d
+
+Les paramètres utm_source=ig, utm_medium=social, utm_content=link_in_bio signalent un lien provenant de la bio Instagram ; le paramètre fbclid est un identifiant de suivi. La version sans paramètres sert de lien de référence, sans préjuger du bon fonctionnement des suivis.
+
+### État de vérification
+
+L'ouverture directe de la page a échoué dans l'outil web et le conteneur n'a pas pu résoudre le domaine. **Aucun audit du texte, des boutons, de la mise en page ou du lien Calendly n'est donc encore possible.** Ne pas présenter le tunnel vidéo → page de vente → Calendly → vente comme vérifié : c'est une hypothèse de travail. Calendly actif précédemment confirmé : https://calendly.com/ludovicpiano/rdv-gratuit.
+
+### Prochaine action
+
+Accéder au contenu réel de la page (capture complète ou source récupérable) pour vérifier l'accroche, l'offre, le prix, les appels à l'action et le chemin vers Calendly. Garder la méthode « j'applique, on corrige » et corriger un seul point prioritaire.
