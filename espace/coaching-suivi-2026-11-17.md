@@ -173,3 +173,29 @@ Je ne te demande pas ce qui serait le plus rentable, mais **ce que tu aurais ré
 ### Piste suivante
 
 Respecter cette séparation et explorer, sans jugement, quel mode d'obtention de revenus ou de capital lui semblerait acceptable **sans accaparer son temps de création**. Ne pas proposer immédiatement une nouvelle liste d'activités ou un plan marketing.
+
+## Échange 8 — argent reçu, apprentissage et investissement
+
+### Assistant — question exacte
+
+**Imagine que tu reçoives demain 500 000 € de manière parfaitement légale, sans avoir besoin de travailler pour les obtenir.**
+
+Est-ce que tu ressentirais une joie et une liberté immédiates, ou est-ce qu'une partie de toi serait gênée de posséder cet argent sans l'avoir gagné par ton travail ?
+
+Je te pose cette question parce que ta réponse pourrait nous permettre de distinguer une éventuelle croyance liée au mérite d'une difficulté purement pratique à générer des revenus.
+
+### Utilisateur — réponse exacte
+
+> Oui je serai très content de les avoir et en effet il y a une part de moi qui voudra montrer au monde aussi en tout cas à ma femme à ma famille que cet argent je vais l'utiliser pour d'investissement d'apprentissage de comment on gère l'argent de coaching d'accompagnement pour viande investir cet argent. Si c'était une petite somme genre quelques milliers d'euros j'investirai pour apprendre à faire de l'argent en tant qu'entrepreneur qui vend des prestations pour pouvoir faire plus d'argent mais si c'était 500000 €, je vestiais tout de suite pour faire fructifier cet argent et bien sûr j'apprendrai quand même à faire de l'immobilier ou des choses qui rapportent faire des placements je m'entourerai de mentor qui me dirait comment faire fructifier cet argent parce que l'argent ça peut vite partir pour des bêtises. Je l'utiliserai tout de suite pour le faire fructifier et pour m'entourer de coaching pour réaliser mes objectifs à tous les niveaux.
+
+### Synthèse — éléments établis et limites
+
+- Il serait **très heureux de recevoir 500 000 € sans travail préalable** ; il n'exprime pas de gêne morale à recevoir cet argent.
+- Il voudrait montrer à ses proches qu'il sait en faire un usage responsable : apprendre, investir, s'entourer de mentors et financer ses objectifs.
+- Il distingue deux situations : **quelques milliers d'euros** serviraient surtout à apprendre à vendre des prestations entrepreneuriales ; **500 000 €** seraient prioritairement destinés à être investis pour produire d'autres revenus.
+- Il est conscient du risque de dilapider une somme importante et voudrait être accompagné.
+- Ne pas confondre le souhait de prouver sa bonne gestion à ses proches avec une culpabilité d'avoir reçu de l'argent. Ne pas présumer qu'un investissement fructifiera ou qu'un coach garantira des résultats.
+
+### Prochaine exploration
+
+Revenir au problème de départ : quand le capital est faible, il pense devoir acquérir des compétences entrepreneuriales pour le faire croître. Explorer ce qu'il croit devoir savoir faire avant d'obtenir ses premiers revenus réguliers, sans suggérer qu'il faut tout apprendre à la fois.
