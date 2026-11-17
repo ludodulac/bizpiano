@@ -268,3 +268,24 @@ Nous allons repartir de cette source de clients, plutôt que de nous disperser s
 ### Conséquence pratique
 
 Les deux plateformes identifiées par l'utilisateur comme sources de ventes passées sont **YouTube et Instagram**. Ne pas affirmer quelle part des ventes vient de chaque plateforme. Pour respecter « j'applique et on corrige », partir d'un contenu pédagogique réutilisable sur les deux canaux sans créer deux stratégies indépendantes. Clarifier ensuite le passage concret de la vidéo à la conversation ou à la réservation.
+
+## Échange 12 — chemin de contact après les vidéos
+
+### Assistant — question exacte
+
+Quand quelqu'un achetait ton accompagnement à 497 €, **quel était son parcours entre la vidéo et l'achat ?**
+
+Par exemple : vidéo → message privé → conversation → rendez-vous Calendly → achat.
+
+Raconte-moi simplement comment ça se passait réellement. Nous allons reconstruire ce parcours avant de changer quoi que ce soit.
+
+### Utilisateur — réponse exacte
+
+> Calendly et peut être un mail directement ou un commentaire
+
+### Synthèse
+
+- **Calendly** est un point de passage identifié vers la vente.
+- Un **e-mail direct** ou un **commentaire** sont d'autres portes d'entrée possibles, mais l'utilisateur les présente comme incertaines (« peut être »).
+- Ne pas inventer un tunnel de conversion unique ni affirmer que tous les clients sont passés par Calendly.
+- Prochaine étape : vérifier si les liens Calendly sont déjà visibles et faciles d'accès depuis les vidéos/profils, avant d'ajouter des actions commerciales.
