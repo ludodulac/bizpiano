@@ -83,3 +83,25 @@ Je voudrais comprendre si c'est la régularité elle-même qui transformerait to
 ### Prochaine piste
 
 Explorer précisément ce que la régularité représenterait dans la relation aux proches, sans présupposer de jugement de leur part. Distinguer la légitimité ressentie de la réalité économique : une prestation ponctuelle rémunérée reste une vente réelle.
+
+## Échange 4 — le regard des autres comme reconnaissance d'un progrès
+
+### Assistant — question exacte
+
+**Quand tu dis que gagner régulièrement 450 € par mois te rendrait plus légitime aux yeux des autres, qu'est-ce que tu imagines que ces personnes penseraient de toi aujourd'hui, alors que tu ne gagnes pas encore cet argent régulièrement ?**
+
+Je voudrais connaître ta perception, pas nécessairement ce qu'elles pensent réellement.
+
+### Utilisateur — réponse exacte
+
+> Ils pensent et bien dis donc il progresse ça veut dire qu'il peut aller plus loin
+
+### Synthèse et point à clarifier
+
+- L'utilisateur imagine une réaction de reconnaissance d'un **progrès** et de la possibilité de **continuer à progresser**.
+- La réponse semble porter sur ce que les proches penseraient *en voyant 450 € réguliers*, plutôt que sur leur regard actuel. Ne pas attribuer une opinion négative aux proches sans précision.
+- Piste : la régularité pourrait représenter une preuve de trajectoire ascendante, davantage qu'une somme ou un jugement de valeur sur sa personne.
+
+### Suite
+
+Vérifier ce que cette preuve de progression changerait pour l'utilisateur lui-même, sans multiplier les questions.
