@@ -105,3 +105,22 @@ Je voudrais connaître ta perception, pas nécessairement ce qu'elles pensent r�
 ### Suite
 
 Vérifier ce que cette preuve de progression changerait pour l'utilisateur lui-même, sans multiplier les questions.
+
+## Échange 5 — confiance indépendante du regard des autres
+
+### Assistant — question exacte
+
+Imagine que tu réussisses à gagner 450 € par mois pendant six mois, mais que personne autour de toi ne le sache.
+
+**Est-ce que tu ressentirais quand même cette fierté d'avoir progressé et cette confiance dans ta capacité à aller plus loin ?**
+
+### Utilisateur — réponse exacte
+
+> Oui bien sûr
+
+### Synthèse
+
+- La fierté et la confiance associées à une régularité de revenus **ne dépendent pas de la connaissance ou de l'approbation des proches**.
+- Le plaisir éventuel des proches est un bénéfice supplémentaire, pas une condition nécessaire à la satisfaction de l'utilisateur.
+- La piste « recherche de légitimité avant tout dans le regard des autres » n'est donc pas étayée par cette réponse.
+- Revenir au sujet principal : la possibilité de reproduire un résultat économique avec un système assez simple et compatible avec des missions courtes.
