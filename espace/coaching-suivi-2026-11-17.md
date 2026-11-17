@@ -52,3 +52,34 @@ Si tu pouvais gagner correctement ta vie en réalisant uniquement des missions c
 ### Piste de travail
 
 Tester la régularité d'une offre simple et finie, avant de viser un système commercial plus complexe. Prochaine question : clarifier si l'important est de recevoir de l'argent *chaque mois* ou d'atteindre une moyenne mensuelle, car les deux supposent des modèles de vente différents.
+
+## Échange 3 — régularité, visibilité et légitimité
+
+### Assistant — question exacte
+
+Imagine deux situations :
+
+**A.** Tu gagnes 1 800 € en vendant quatre prestations pendant un mois, puis plus rien pendant les trois mois suivants.
+
+**B.** Tu gagnes 450 € chaque mois pendant quatre mois consécutifs.
+
+Au total, c'est exactement la même somme.
+
+**Laquelle des deux situations te donnerait le plus profondément le sentiment d'être devenu quelqu'un qui sait gagner de l'argent ?**
+
+Je voudrais comprendre si c'est la régularité elle-même qui transformerait ton identité financière, ou plutôt la certitude de savoir reproduire une vente.
+
+### Utilisateur — réponse exacte
+
+> Je pense que c'est un peu plus la réponse B mais en fait elle se valent les deux c'est comme si j'avais une somme pour 3 mois et qu'après je me disais mince pendant 2 mois là je sais pas pourquoi je gagne pas d'argent ça me ferait un petit peu rager par contre si j'avais déjà 450 € par mois ce serait déjà chouette il y aura une régularité qui me rendrai plus légitime aux yeux des autres ça ferait plaisir ma femme je pense
+
+### Synthèse et prudence d'interprétation
+
+- L'utilisateur penche légèrement vers **B**, sans rejeter **A** : les deux se valent en grande partie pour lui.
+- Dans A, le souci serait de ne pas comprendre pourquoi les revenus cessent pendant plusieurs mois.
+- Dans B, la régularité serait satisfaisante et apporterait un sentiment de **légitimité aux yeux des autres**, notamment le plaisir de sa femme.
+- Ne pas conclure que son objectif est seulement la validation extérieure, ni qu'il aurait honte de lui-même : il n'a pas affirmé cela.
+
+### Prochaine piste
+
+Explorer précisément ce que la régularité représenterait dans la relation aux proches, sans présupposer de jugement de leur part. Distinguer la légitimité ressentie de la réalité économique : une prestation ponctuelle rémunérée reste une vente réelle.
