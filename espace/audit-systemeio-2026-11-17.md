@@ -46,3 +46,14 @@ Autres plans enregistrés : « 9 Formations piano en 1 » 397 €, « Piano 3D a
 ## Sources officielles
 https://help.systeme.io/article/237-how-to-sell-an-online-course
 https://help.systeme.io/article/1720-different-ways-access-course
+
+
+## Mise en œuvre après feu vert — 17 novembre 2026
+
+L'utilisateur a donné explicitement son feu vert à la refonte proposée.
+
+**Modifications réellement enregistrées dans Systeme.io :**
+- Page principale pack-piano-3d : prix 497 € et les neuf formations + 3 mois annoncés dès l'introduction ; neuf fiches détaillées réutilisées à partir du texte existant de la page paiementkitpiano, avec CTA Calendly principal et paiement premium secondaire ; suppression du contenu de la popup promotionnelle à 49 € (le conteneur Popup technique existe encore, à contrôler visuellement).
+- Page premium-piano-3d : suppression des références « réservé aux élèves du pack », « pack à 49 € » et « racheter mon pack » ; formulation de l'accès à la formation incluse ; lien retour redirigé vers la page principale.
+- AUCUN changement de tarif dans les produits, AUCUNE révocation de droits existants, AUCUNE suppression du formulaire 49 € ; l'ancienne URL directe reste accessible et ne doit pas être promue.
+- Limites : le rendu public et la mécanique d'affichage du conteneur popup n'ont pas encore été testés visuellement sur téléphone ; les CGV de la page premium semblent avoir un lien « # » à vérifier, et les promesses de garantie et de disponibilité doivent être validées. Ne pas affirmer que la totalité du parcours de paiement a été testée.
