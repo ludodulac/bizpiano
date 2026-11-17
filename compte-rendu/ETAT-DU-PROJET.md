@@ -1,3 +1,5 @@
+> **Reprise du coaching sur l'argent — 17 novembre 2026 :** lire d'abord [l'index chronologique](../espace/index-coaching.md), puis les 13 parties de la transcription du mail dans `espace/archive-2026-11-17/`. Cette archive intégrale remplace les résumés partiels comme source de vérité pour les questions et réponses. Ne pas reposer les questions déjà traitées.
+
 # État du projet Piano 3D
 
 _Mise à jour : 3 septembre 2026_
