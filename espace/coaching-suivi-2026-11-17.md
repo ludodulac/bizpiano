@@ -252,3 +252,19 @@ C'est important, parce que si nous retrouvons ce qui a réellement fonctionné, 
 - Mesurer seulement trois étapes : contacts qualifiés/conversations, rendez-vous pris, ventes. Relever éventuellement les vues comme contexte, sans en faire l'objectif.
 - Faire un point hebdomadaire : conserver ce qui marche, corriger **un seul élément** pour la semaine suivante.
 - Avant de fixer les actions exactes, identifier **quelle plateforme** a réellement amené les clients précédents.
+
+## Échange 11 — plateformes d'origine des clients
+
+### Assistant — question exacte
+
+**Sur quelle plateforme avais-tu publié les vidéos qui t'ont réellement apporté tes clients à 497 € : YouTube, TikTok, Instagram ou Facebook ?**
+
+Nous allons repartir de cette source de clients, plutôt que de nous disperser sur tous les réseaux.
+
+### Utilisateur — réponse exacte
+
+> YouTube et insta
+
+### Conséquence pratique
+
+Les deux plateformes identifiées par l'utilisateur comme sources de ventes passées sont **YouTube et Instagram**. Ne pas affirmer quelle part des ventes vient de chaque plateforme. Pour respecter « j'applique et on corrige », partir d'un contenu pédagogique réutilisable sur les deux canaux sans créer deux stratégies indépendantes. Clarifier ensuite le passage concret de la vidéo à la conversation ou à la réservation.
