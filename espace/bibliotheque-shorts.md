@@ -279,3 +279,26 @@ M02, A02, I01, P02, M05, A10, I06, P05, S01, P04. Choix fondé sur les sujets fo
 - Drive : [70 scripts SEO Instagram Piano](https://docs.google.com/document/d/1NaPlnotN_4nf0Z0mWEAK_zjbBxBIcn2fu5wbw7LvcN0/edit) (70 hooks consultés; plusieurs sont des reformulations d'une même idée).
 - GitHub : `content/08-plan-action/plan-30-shorts.md`, `content/04-acquisition/formats-recurrents.md`, `content/04-acquisition/machine-shorts.md`, `espace/analyse-youtube-2026-11-17.md`.
 - Les données Instagram de Metricool ne permettent pas encore de classer les concepts par performance réelle.
+
+## File de tournage guidée — 19 novembre 2026
+
+Cette liste est **l'ordre de rappel demandé par le créateur**. Quand il demande « au fait, c'était quoi les idées ? », lui donner **seulement la première idée non confirmée comme tournée**, avec une consigne simple. Lorsqu'il dit « j'ai fait la première », marquer celle-ci tournée et proposer la suivante. Ne jamais supposer qu'une vidéo est tournée ou publiée sans confirmation. Les statuts ci-dessous sont distincts des fiches d'idées générales.
+
+| Ordre | Référence | Sujet à tourner | Démonstration | Statut |
+|---|---|---|---|---|
+| 1 | A02 | Pourquoi tes accords sonnent comme des blocs ? | Accords plaqués puis renversements fluides | À tourner |
+| 2 | I01 | Improviser avec seulement trois notes | Question-réponse musicale avec trois notes | À tourner |
+| 3 | M05 | Blues binaire ou ternaire ? | Même phrase, deux rythmes | À tourner |
+| 4 | A10 | Comment jouer avec une grille d'accords ? | Même grille, accompagnements différents | À tourner |
+| 5 | A08 | Le II–V–I expliqué par l'oreille | Jouer puis interrompre avant la résolution | À tourner |
+| 6 | M03 | Pourquoi tes deux mains ne jouent pas ensemble ? | Coordination rythmique avant le clavier | À tourner |
+| 7 | P02 | Tu oublies tes morceaux sans le tutoriel | Fonctions harmoniques plutôt que positions | À tourner |
+| 8 | I08 | Une gamme ne fait pas un solo | Gamme mécanique puis phrase musicale | À tourner |
+| 9 | P05 | Le secret est entre deux accords | Travailler la transition entre accords | À tourner |
+| 10 | A09 | Changer de tonalité facilement | Transposer trois accords par degrés | À tourner |
+| 11 | P04 | Le test pour savoir si tu es autonome | Rejouer une progression avec un autre rythme | À tourner |
+| 12 | S01 | Le pianiste qui regarde 200 tutos | Sketch sur les tutos et la pratique ciblée | À tourner |
+
+**Vidéo déjà réalisée, hors de cette nouvelle file :** main gauche blues « Ta main gauche tourne en rond ? », Reel d'essai Instagram publié le 19 novembre 2026 (selon confirmation et capture de l'utilisateur). Ne pas la reproposer comme première idée.
+
+**Première réponse à fournir au prochain rappel :** « Idée n° 1 : Pourquoi tes accords sonnent comme des blocs ? Joue une fois des accords plaqués, puis les mêmes avec des renversements fluides. »
