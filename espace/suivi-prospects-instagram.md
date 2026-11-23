@@ -50,3 +50,14 @@ Mise en place : 19 novembre 2026. Objectif : convertir des interactions réelles
 - Ventes réalisées et chiffre d'affaires
 
 **Prochaine action unique :** répondre au commentaire le plus intéressé, puis noter la réponse. Ne pas prétendre qu'un message a été envoyé tant qu'il n'a pas été envoyé dans Instagram.
+
+## Journal d'activité — 24 novembre 2026
+
+**Action déclarée comme effectuée par Ludovic :** envoi d'un message privé de bienvenue personnalisé à **tous les nouveaux abonnés Instagram** du compte piano. Le nombre exact de destinataires et les éventuelles réponses restent à vérifier ; ne pas les inventer ni présumer de leur consentement à une prospection ultérieure.
+
+**Message envoyé (transcription approximative dictée par Ludovic) :**
+> Salut [prénom], merci à toi pour le follow sur mon compte piano. Moi c'est Ludo. N'hésite pas à me poser toutes les questions que tu veux sur le piano, la musique ; si je peux y répondre, je me ferai un plaisir d'y répondre. Et en plus, ça me donnera des idées pour des vidéos futures. Donc n'hésite vraiment pas, bienvenue sur le compte et à très bientôt.
+
+**Commentaires :** peu de commentaires jugés utiles ; Ludovic préfère passer à l'étape suivante plutôt que de poursuivre la recherche des deux anciens commentaires.
+
+**Statut :** prise de contact avec les nouveaux abonnés effectuée (déclaration utilisateur). **Prochaine priorité : audit et optimisation du profil Instagram Ludovic Piano** — nom affiché, photo, bio, lien, publications épinglées, stories à la une. Ne pas renvoyer le même message aux mêmes personnes. Attendre les réponses et répondre individuellement aux questions réelles.
