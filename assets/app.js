@@ -9,6 +9,7 @@ const docs=[
 ['Formats récurrents','content/04-acquisition/formats-recurrents.md','Acquisition'],
 ['Hooks façon Brieuc','content/04-acquisition/hooks-brieuc-style.md','Acquisition'],
 ['Analyse page actuelle','content/05-marketing/page-actuelle-analyse.md','Marketing'],
+['Mon storytelling','content/06-identite/mon-storytelling.md','Identité'],
 ['Style personnel','content/06-identite/style-personnel.md','Identité'],
 ['Analyse Brieuc','content/07-recherche/analyse-brieuc.md','Recherche'],
 ['Plan 30 Shorts','content/08-plan-action/plan-30-shorts.md','Plan d’action'],
